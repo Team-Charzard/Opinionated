@@ -1,0 +1,6 @@
+node_modules
+package-lock.json
+dist
+.cash
+.DS_store
+conif.json

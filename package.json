@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Team-Charzard/Opinionated/issues"
   },
-  "homepage": "https://github.com/Team-Charzard/Opinionated#readme"
+  "homepage": "https://github.com/Team-Charzard/Opinionated#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
 }
