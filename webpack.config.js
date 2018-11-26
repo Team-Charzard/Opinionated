@@ -32,9 +32,4 @@ module.exports = {
     ],
   },
   plugins: [htmlPlugin],
-  devServer: {
-    proxy: {
-      '/': 'http://localhost:3000',
-    },
-  },
 };
